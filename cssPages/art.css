@@ -1,1 +1,80 @@
+body{
+  background-color: #1a120b;
+}
+/* h1{
+  margin-top: 2rem;
+  margin-left: 1rem;
+  color: #E5E5CB;
+  font-family: 'Yuji Boku', serif;
+} */
+h2{
+  margin-right:25rem;
+  color: #E5E5CB;
+  font-family: 'Tektur', cursive;
+}
+.carouselp{
+  margin-right: 21rem;
+}
+.navbar-brand{
+  color: #E5E5CB;
+  margin-bottom: 27px;
+  font-family: 'Yuji Boku', serif;
+  margin-right: 59rem;
+  margin-left: 3.3rem;
+}
+
+.nav-link{
+  color: #E5E5CB;
+}
+
+.header-left{
+  color: #E5E5CB;
+  font-family: 'Tektur', cursive;
+  font-weight: 200;
+  padding-top: 2rem;
+}
+
+.btn{
+  background-color:#3C2A21;
+  color:#E5E5CB;
+}
+.carousel-inner{
+  margin-top: 7rem;
+  margin-left: 10rem;
+  margin-right: 5rem;
+  margin-bottom: 10rem;
+}
+
+.rectangle{
+  display:inline-block;
+  width: 100px;
+  height:100px;
+  background-color: red;
+  margin-left:5rem;
+}
+
+.container {
+  display: table;
+  width: 20%;
+}
+.table-row {
+
+  display: table-row;
+  height: 100px;
+}
+.table-cell {
+  border: 1px solid;
+  background: #ce8888;
+  display: table-cell;
+  padding: 2px;
+}
+.sampleimg{
+  margin-left: 25rem;
+}
+.renga-text{
+  margin-left:10rem;
+  margin-top: 3rem;
+  color: #E5E5CB;
+  font-family: 'Tektur', cursive;
+}
 
