@@ -1,1 +1,122 @@
+body{
+  background-color: #1a120b;
+}
+
+h1{
+  font-size: 85px;
+}
+
+p{
+  font-size: 20px;
+}
+.navbar-brand{
+  color: #E5E5CB;
+  margin-bottom: 27px;
+  font-family: 'Yuji Boku', serif;
+  margin-right: 59rem;
+  margin-left: 3.3rem;
+}
+
+
+.home{
+  /* margin-top: 3px; */
+  padding: 0;
+  width:60px;
+}
+
+.nav-link{
+  color: #E5E5CB;
+}
+.header-left{
+  color: #E5E5CB;
+  font-family: 'Tektur', cursive;
+  font-weight: 200;
+  padding-top: 2rem;
+}
+.tagline{
+  font-family: 'Tektur', cursive;
+  color: #E5E5CB;
+  text-align: left;
+  margin-left: 10rem;
+  margin-top: 18rem;
+}
+.typewriter{
+  color: #E5E5CB;
+  font-family: 'Tektur', cursive;
+  overflow: hidden;
+  border-right: .15em solid green;
+  white-space: nowrap;
+  margin:0;
+  letter-spacing: .15em;
+  animation:
+    typing 3.5s steps(40,end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 50% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: green; }
+}
+
+/* BIDDING PAGE */
+
+.trendhot{
+  color:#E5E5CB;
+  font-family: 'Tektur', cursive;
+  margin-top: 13.5rem;
+  margin-left: 5rem;
+}
+.btn{
+  background-color:#3C2A21;
+  color:#E5E5CB;
+}
+
+.hour{
+   margin-left: 45rem;
+}
+.option{
+  color:#E5E5CB;
+  margin-top: 2rem;
+  margin-left: 5rem;
+}
+.option2{
+  margin-left: 40rem;
+  margin-top: 0rem;
+}
+
+#art-option{
+  margin-left:6.3rem;
+}
+.text-art{
+  margin-left: 4rem;
+  margin-top: 5rem;
+  font-size: 2rem;
+  color:#E5E5CB;
+}
+#footer{
+  padding: 170px;
+  margin-top: 5rem;
+}
+.foot{
+  background-color:#E5E5CB;
+}
+
+.fa-text{
+  margin-top:2rem;
+  margin-left: 20rem;
+}
+.fl{
+  margin-right: 4rem;
+}
+.copy{
+  margin-left: 9rem;
+  margin-top: 2rem;
+}
 
