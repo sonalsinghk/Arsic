@@ -1,5 +1,7 @@
+
 body{
   background-color: #1a120b;
+  margin:0;
 }
 
 h1{
@@ -9,17 +11,25 @@ h1{
 p{
   font-size: 20px;
 }
+h5{
+    color:#1a120b;
+}
+
+/* Navbar */
+
 .navbar-brand{
   color: #E5E5CB;
   margin-bottom: 27px;
   font-family: 'Yuji Boku', serif;
-  margin-right: 59rem;
-  margin-left: 3.3rem;
+  padding-right: 46rem;
+  padding-left: 3.5rem;
+}
+.nav-item{
+  padding: 0 18px;
 }
 
-
 .home{
-  /* margin-top: 3px; */
+  margin-top: 3px;
   padding: 0;
   width:60px;
 }
@@ -37,7 +47,7 @@ p{
   font-family: 'Tektur', cursive;
   color: #E5E5CB;
   text-align: left;
-  margin-left: 10rem;
+  margin-left: 6rem;
   margin-top: 18rem;
 }
 .typewriter{
@@ -100,23 +110,13 @@ p{
   font-size: 2rem;
   color:#E5E5CB;
 }
-#footer{
-  padding: 170px;
+
+/* Footer */
+
+.Footer{
+  background-color:#E5E5CB;
   margin-top: 5rem;
 }
-.foot{
-  background-color:#E5E5CB;
+.link-body-emphasis{
+  color:black;
 }
-
-.fa-text{
-  margin-top:2rem;
-  margin-left: 20rem;
-}
-.fl{
-  margin-right: 4rem;
-}
-.copy{
-  margin-left: 9rem;
-  margin-top: 2rem;
-}
-
