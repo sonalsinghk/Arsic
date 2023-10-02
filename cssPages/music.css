@@ -7,4 +7,67 @@ h1{
   color: #E5E5CB;
   font-family: 'Yuji Boku', serif;
 }
+h2{
+  margin-left: 4rem;
+  color: #E5E5CB;
+  font-family: 'Tektur', cursive;
+}
+/* Navbar */
+.navbar{
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.navbar-toggler{
+  background-color: #E5E5CB;
+}
+.navbar-brand{
+  color: #E5E5CB;
+  margin-bottom: 2.5px;
+  font-family: 'Yuji Boku', serif;
+}
+.nav-link{
+  color: #E5E5CB;
+}
+.nav-item{
+  font-family: 'Tektur', cursive;
+}
+.btn{
+  background-color:#3C2A21;
+  color:#E5E5CB;
+}
+/* Carousel */
 
+.carouselp{
+  margin-right: 21rem;
+}
+.carousel-inner{
+  margin-top: 4rem;
+  margin-bottom: 10rem;
+}
+/* Window Shopping */
+
+.text-art{
+  margin-top: 5rem;
+}
+
+.sampleimg{
+  margin-left: 25rem;
+}
+.renga-text{
+  margin-left:10rem;
+  margin-top: 3rem;
+  color: #E5E5CB;
+  font-family: 'Tektur', cursive;
+}
+#art-option{
+  margin-left:6.3rem;
+}
+/* footer */
+.Footer{
+  background-color:#E5E5CB;
+  margin-top: 5rem;
+}
+.link-body-emphasis{
+  color:black;
+}
